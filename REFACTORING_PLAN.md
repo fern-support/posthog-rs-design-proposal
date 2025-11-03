@@ -591,7 +591,7 @@ This refactoring plan addresses the main modularity issues in the PostHog Rust S
 4. Set up benchmarking to track performance
 5. Update contribution guidelines with new patterns
 
----
+--
 
 *Document Version: 1.0*
 *Date: 2025-01-22*
